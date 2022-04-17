@@ -115,7 +115,7 @@ function mod($dividendo,$divisor)
 
 //put you sk_live keys here
 $skeys = array(
-  1 => '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', 
+  1 => 'sk_liQ2zbOc4zC2pnOhYLyBaQh6XjchGSyq1hAgtuaqlaDMIDdwEmOTYySxFrSCLcAZSuHsklUdcn7003lUE1qDi', 
     ); 
     $skey = array_rand($skeys);
     $sk = $skeys[$skey];

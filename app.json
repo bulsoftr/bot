@@ -1,24 +1,25 @@
 {
-    "name": "SDMN Bot",
-    "description": "ot with hella lotta features.",
-    "logo": "https://pbs.twimg.com/profile_images/1252291883793027074/RfEhm8yV_400x400.jpg",
-    "keywords": [
-        "Telegram",
-        "Bot",
-        "Modular"
-    ],
-    "website": "https://telegram.me/anonbd",
-    "repository": "https://github.com/bulsoftr/bot",
-        "TIMEZONE": {
-            "description": "Your Preffered TimeZone",
-            "value": "Asia/Kolkata",
-            "required": false
-        }
-    },
-    "formation": {
-        "web": {
-            "quantity": 1,
-            "size": "free"
-        }
-    },
-    "image": "heroku/php"
+  "description": "This app does one little thing, and does it well."
+}
+{
+  "image": "heroku/php"
+}
+{
+  "keywords": [
+    "productivity",
+    "HTML5",
+    "scalpel"
+  ]
+}
+{
+  "logo": "https://small-sharp-tool.com/logo.svg"
+}
+{
+  "name": "Small Sharp Tool"
+}
+{
+  "repository": "https://github.com/bulsoftr/bot"
+}
+{
+  "website": "https://small-sharp-tool.com/"
+}

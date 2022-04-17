@@ -1,25 +1,27 @@
-{
-  "description": "This app does one little thing, and does it well."
-}
-{
-  "image": "heroku/php"
-}
-{
-  "keywords": [
-    "productivity",
-    "HTML5",
-    "scalpel"
-  ]
-}
-{
-  "logo": "https://small-sharp-tool.com/logo.svg"
-}
-{
-  "name": "Small Sharp Tool"
-}
-{
-  "repository": "https://github.com/bulsoftr/bot"
-}
-{
-  "website": "https://small-sharp-tool.com/"
-}
+[
+  {
+    "description": "This app does one little thing, and does it well."
+  },
+  {
+    "image": "heroku/php"
+  },
+  {
+    "keywords": [
+      "productivity",
+      "HTML5",
+      "scalpel"
+    ]
+  },
+  {
+    "logo": "https://small-sharp-tool.com/logo.svg"
+  },
+  {
+    "name": "Small Sharp Tool"
+  },
+  {
+    "repository": "https://github.com/bulsoftr/bot"
+  },
+  {
+    "website": "https://small-sharp-tool.com/"
+  }
+]
